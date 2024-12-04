@@ -18,7 +18,7 @@ This is a weather app built using React, OpenWeather API, and Unsplash API. It f
 
 ## Deployment
 
-The app is deployed on [Netlify]([https://myweather-app-demo.netlify.app]).
+The app is deployed on https://myweather-app-demo.netlify.app.
 
 ## License
 
